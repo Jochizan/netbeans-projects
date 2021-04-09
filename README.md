@@ -1,6 +1,6 @@
-# Cursos de JavaScript
+# Cursos de Java
 
-- Código javascript de mis cursos llevados.
+- Código Java de mis cursos llevados.
 
 
 -  ⌨️ con ❤️ por [Joan](https://github.com/Jochizan) 😊
