@@ -1,0 +1,4 @@
+/mensajes_app/target/
+*.class
+*.jar
+*.zip
