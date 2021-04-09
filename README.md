@@ -1,4 +1,4 @@
-# Cursos de Java
+# Cursos de Java en NetBeans
 
 - Código Java de mis cursos llevados.
 
